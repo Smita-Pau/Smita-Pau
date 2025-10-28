@@ -13,6 +13,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/smita-paul-51842134b)  
 🐙 [GitHub](https://github.com/Smita-Pau)
 🎨 [Instagram](https://www.instagram.com/smitapaul_05?igsh=M2xtYmNya29wZzkz)
+
 ---
 
 ### 💡 About Me
