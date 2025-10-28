@@ -1,4 +1,4 @@
-# Hi, I'm Smita Paul 👋
+# Hi, I'm Smita Paul 
 
 🎓 **MCA Student at Noida International University**  
 💻 Exploring **Full Stack Development, Data Analytics, and AI/ML**  
@@ -12,7 +12,7 @@
 ### 🌐 Connect With Me
 🔗 [LinkedIn](https://www.linkedin.com/in/smita-paul-51842134b)  
 🐙 [GitHub](https://github.com/Smita-Pau)
-
+🎨 [Instagram](https://www.instagram.com/smitapaul_05?igsh=M2xtYmNya29wZzkz)
 ---
 
 ### 💡 About Me
@@ -27,7 +27,6 @@ Right now, I’m focusing on improving my **Full Stack (MERN)** and **Data Analy
 - 🔹 AI Voice Assistant – Python, SpeechRecognition, pyttsx3  
 - 🔹 Sales Forecasting – Python, pandas, scikit-learn  
 
-*(More projects and updates coming soon!)*  
 
 ---
 
