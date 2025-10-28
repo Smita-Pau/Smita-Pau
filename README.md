@@ -22,7 +22,7 @@ Right now, I’m focusing on improving my **Full Stack (MERN)** and **Data Analy
 
 ---
 
-### 📘 Learning & Projects (Uploading Soon)
+### 📘 Learning & Projects
 - 🔹 Car Rental Website – HTML, CSS, JavaScript, MySQL  
 - 🔹 AI Voice Assistant – Python, SpeechRecognition, pyttsx3  
 - 🔹 Sales Forecasting – Python, pandas, scikit-learn  
