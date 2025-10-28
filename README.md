@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Smita Paul 👋
 
-<!--
-**Smita-Pau/Smita-Pau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student at Noida International University**  
+💻 Exploring **Full Stack Development, Data Analytics, and AI/ML**  
+🌱 Currently learning **Python, Java, Web Development, and Data Analytics**   
+📊 Interested in turning **data and ideas into useful applications**  
+🧠 Familiar with **Python, Java, MySQL, HTML, CSS, and JavaScript**  
+📫 Reach me at **smitapaularts@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/smita-paul-51842134b)  
+🐙 [GitHub](https://github.com/Smita-Pau)
+
+---
+
+### 💡 About Me
+I’m an MCA student who loves learning new technologies and applying them to small projects.  
+I enjoy building web applications, working with data, and exploring how AI and analytics can make systems smarter.  
+Right now, I’m focusing on improving my **Full Stack (MERN)** and **Data Analytics** skills step by step.
+
+---
+
+### 📘 Learning & Projects (Uploading Soon)
+- 🔹 Car Rental Website – HTML, CSS, JavaScript, MySQL  
+- 🔹 AI Voice Assistant – Python, SpeechRecognition, pyttsx3  
+- 🔹 Sales Forecasting – Python, pandas, scikit-learn  
+
+*(More projects and updates coming soon!)*  
+
+---
+
+⭐ **"Keep Learning, Keep Building."**
